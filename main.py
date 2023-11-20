@@ -43,5 +43,6 @@ while not Meta == True:
     print(f"La palabra era: {P_Elegida}")
     print(hangman_art.stages[vida])
     break
+     
   print(hangman_art.stages[vida])
   print(Display)
